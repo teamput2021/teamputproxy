@@ -19,7 +19,7 @@ pkg install curl -y
 pkg install libenet -y
 pkg install wget -y
 clear
-wget -q https://github.com/AmertaByte/Arunika-Proxy/raw/main/arunika
+wget -q https://github.com/teamput2021/teamputproxy/raw/main/teamput
 sleep 1
 echo -e "${GREEN}Proxy Installed${ENDCOLOR}"
 echo -e "${GREEN}Execute proxy with this command: ./teamput${ENDCOLOR}"
